@@ -4,7 +4,7 @@ programming and verification. It might also work with the
 Atmel ATF1508 QC160.
 
 The board is known by the nickname Avocado or Holy Guacamole.
-:evergreen_tree: So, :cactus: if :four_leaf_clover: you :green_apple: make :pear: your :dragon: own, :white_check_mark: make it :heavy_dollar_sign: GREEN :green_heart:.
+So, if you make your own, make it GREEN.
 
 <IMG SRC="photos/2023_03_26_removing_top_cover_from_socket.jpeg" WIDTH="50%">
 
