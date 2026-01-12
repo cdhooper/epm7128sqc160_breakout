@@ -10,12 +10,12 @@ The board is known by the nickname Avocado or Holy Guacamole.
 
 -------------------------------------------------------------
 
-Configuration:
-    1. Set VCCIO jumper to 5V
-    2. Set VCCJTAG jumper to 5V
-    3. Connect a USB-C power supply to the USB-C header or
-       connect a bench power supply to the 5V and GND header.
-    4. Connect your JTAG programmer to the board.
+* Configuration
+1. Set VCCIO jumper to 5V
+2. Set VCCJTAG jumper to 5V
+3. Connect a USB-C power supply to the USB-C header or
+   connect a bench power supply to the 5V and GND header.
+4. Connect your JTAG programmer to the board.
 
 -------------------------------------------------------------
 
